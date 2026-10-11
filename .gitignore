@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Uploads
+uploads/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+AI-Service/invoice_model/
+AI-Service/dataset/
+AI-Service/processed_data.json
+AI-Service/test_invoice.jpg
